@@ -1,0 +1,51 @@
+{
+    "project": {
+        "name": "g3_task2",
+        "description": "about team",
+        "version": "1.0.0",
+        "repository": "https://github.com/Jawdtsh/g3.git"
+    },
+    "team": [
+        {
+            "name": "jawdt alshalabe",
+            "role": "admin",
+            "email": "jawdt alshalabe"
+        },
+        {
+            "name": "",
+            "role": "",
+            "email": ""
+        },
+        {
+            "name": "",
+            "role": "",
+            "email": ""
+        },
+        {
+            "name": "",
+            "role": "",
+            "email": ""
+        },
+        {
+            "name": "",
+            "role": "",
+            "email": ""
+        },
+        {
+            "name": "",
+            "role": "",
+            "email": ""
+        },
+        {
+            "name": "",
+            "role": "",
+            "email": ""
+        },
+        {
+            "name": "",
+            "role": "",
+            "email": ""
+        }
+    ]
+    
+}
