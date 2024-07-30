@@ -12,9 +12,11 @@
             "email": "jawdt alshalabe"
         },
         {
-            "name": "",
-            "role": "",
-            "email": ""
+            "name": "AlHassan Mohammad",
+            "role": "front End Developer",
+            "email": {"GitHub": "hasan21.2000@gmail.com",
+                      "Formal": "eng.alhassan.mohammad@gmail.com"  
+                    }
         },
         {
             "name": "ibrahem hasan",
