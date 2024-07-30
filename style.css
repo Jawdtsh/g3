@@ -1,0 +1,27 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 2px auto;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+caption {
+    margin-top: 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+th {
+    background-color: gold;
+    font-size: 22px;
+}
+
+td {
+    font-size: 20px;
+}
