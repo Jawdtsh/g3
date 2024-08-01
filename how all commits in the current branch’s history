@@ -1,0 +1,64 @@
+[33mcommit f365f03cc29731b7f2ba848e3bfbd1b0066cd6b9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mMaryAddTeameNames[m[33m)[m
+Merge: 2241c23 6a0666b
+Author: jawdt <131110891+Jawdtsh@users.noreply.github.com>
+Date:   Tue Jul 30 17:05:11 2024 +0300
+
+    Merge pull request #3 from Jawdtsh/AlHassanAddTeamNames
+    
+    add team names to web page
+
+[33mcommit 6a0666b4147be1391433b7915cdc335054268eb9[m
+Author: unknown <hasan21.2000@gmail.com>
+Date:   Tue Jul 30 16:53:08 2024 +0300
+
+    add team names to web page
+
+[33mcommit 2241c2304723283f451188f46be15286fa5f3054[m
+Merge: 07a9f4f 899a197
+Author: jawdt <131110891+Jawdtsh@users.noreply.github.com>
+Date:   Mon Jul 29 23:11:22 2024 +0300
+
+    Merge pull request #2 from Jawdtsh/ibrahem_hasan
+    
+    ibrahem hasan added his info
+
+[33mcommit 07a9f4f9d9af023dea5ad93ca2827ae3b515dda7[m
+Author: Ibrahem Hasan <38396806+ibrahembero@users.noreply.github.com>
+Date:   Mon Jul 29 22:57:27 2024 +0300
+
+    Update team3.json
+
+[33mcommit 899a197151eeae2a332fe11eb13286a00d2bb7d5[m[33m ([m[1;31morigin/ibrahem_hasan[m[33m)[m
+Author: ibrahembero <ih1004569bero@gmail.com>
+Date:   Mon Jul 29 22:54:01 2024 +0300
+
+    ibrahem hasan added his info
+
+[33mcommit 6e51babcd8405c98b40356aa270a0b6a326abac6[m
+Author: Ibrahem Hasan <38396806+ibrahembero@users.noreply.github.com>
+Date:   Mon Jul 29 21:11:45 2024 +0300
+
+    Update team3.json
+    
+    Ibrahem hasan added his info
+
+[33mcommit 222b1c4858d3e724edb690d94da4d6b24977ec82[m
+Merge: bea932b e2dbd6a
+Author: jawdt <131110891+Jawdtsh@users.noreply.github.com>
+Date:   Mon Jul 29 21:07:37 2024 +0300
+
+    Merge pull request #1 from Jawdtsh/ibrahem_hasan
+    
+    new react app with vite was initiated and it is working with npm run dev
+
+[33mcommit e2dbd6ac4c80d7c0fc49cbe2e54a8ba33f1e5003[m
+Author: ibrahembero <ih1004569bero@gmail.com>
+Date:   Mon Jul 29 20:45:26 2024 +0300
+
+    new react app with vite was initiated and it is working with npm run dev
+
+[33mcommit bea932bbfe8e964413369ed984136ca532a578d0[m
+Author: jawdt <jawdtalshalabe@gmail.com>
+Date:   Mon Jul 29 20:34:19 2024 +0300
+
+    add team3.json file
